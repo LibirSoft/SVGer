@@ -1,0 +1,26 @@
+{
+  "name": "svger",
+  "version": "0.0.1",
+  "description": "SVGer is svg resizer and converter.",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "LibirSoft",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.3",
+    "@types/yargs": "^17.0.10",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.19.0",
+    "eslint-config-alloy": "^4.6.2",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4",
+    "yargs": "^17.5.1"
+  }
+}
